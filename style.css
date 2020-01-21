@@ -1,0 +1,27 @@
+@font-face {
+    font-family: Determination;
+    src: url(DTM-Sans.otf)
+}
+
+html{
+    background-color: black;
+    font-family: Determination;
+    color: white;
+    font-size: 100%;
+}
+
+body{
+    text-align: center;
+}
+
+.name{
+    text-align: left;
+    font-size: 500%;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+} 
