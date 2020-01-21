@@ -1,4 +1,7 @@
-
+@font-face {
+    font-family: Determination;
+    src: url(DTM-Sans.otf)
+}
 
 html{
     background-color: black;
